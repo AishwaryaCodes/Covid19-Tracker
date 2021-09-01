@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+.main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background:url('virus.webp') no-repeat center center/cover;
+    opacity: 0.9;
+    z-index: 8;
+}
+
+.title{
+    color: snow;
+    margin: 2rem;
+    font-size: 5rem;
+    text-shadow: 5px 5px 4px black;
+}
+
+.title2{
+    font-size: 3.5rem;
+}
+
+.part1{
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.country-name{
+    height: 1rem;
+    width: 6rem;
+    padding: 1rem;
+    margin-left: 20px;
+}
+
+.btn{
+    height: 3rem;
+    font-weight: bold;
+    background-color: rgb(71, 224, 148);
+    margin-left: 10px;
+    padding: 0.5rem; 
+    width: 8rem;
+    cursor: pointer;
+}
+
+.btn:hover{
+    font-weight: bold;
+    border: 1px solid white;
+    color: white;
+}
+
+
+.data1{
+    color: silver;
+    text-shadow: 5px 5px 4px black;
+    font-size: 3rem;
+}
+
+.data{
+    color: silver;
+    text-shadow: 5px 5px 4px black;
+    font-size: 2.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
